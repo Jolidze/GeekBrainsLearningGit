@@ -128,6 +128,9 @@
 2. Сделаем коммит "с удаленного репа" прямо на ГитХабе
 
 
+
+HELLO WORLD
+
 hello from Sergey
 
 
@@ -135,4 +138,5 @@ hello from Sergey
 
 
 hello from Ilyas :)
+
 
